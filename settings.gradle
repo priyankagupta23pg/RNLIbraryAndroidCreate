@@ -1,0 +1,7 @@
+include ':react-native-webview-release'
+include ':libapp'
+include ':app'
+include ':react-native-image-crop-picker'
+project(':react-native-image-crop-picker').projectDir = new File(settingsDir, 'libapp/node_modules/react-native-image-crop-picker/android')
+
+rootProject.name = "SampleApplication"

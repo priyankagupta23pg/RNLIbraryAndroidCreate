@@ -1,0 +1,55 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.reactproj"
+5    android:versionCode="1"
+6    android:versionName="1.0" > <!-- <application -->
+7    <!-- android:name=".MainApplication" -->
+8    <!-- android:label="@string/app_name" -->
+9    <!-- android:icon="@mipmap/ic_launcher" -->
+10    <!-- android:roundIcon="@mipmap/ic_launcher_round" -->
+11    <!-- android:allowBackup="false" -->
+12    <!-- android:theme="@style/AppTheme"> -->
+13    <!-- <activity -->
+14    <!-- android:name=".MainActivity" -->
+15    <!-- android:label="@string/app_name" -->
+16    <!-- android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode" -->
+17    <!-- android:launchMode="singleTask" -->
+18    <!-- android:windowSoftInputMode="adjustResize"> -->
+19    <!-- <intent-filter> -->
+20    <!-- <action android:name="android.intent.action.MAIN" /> -->
+21    <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+22    <!-- </intent-filter> -->
+23    <!-- </activity> -->
+24    <!-- </application> -->
+25    <uses-sdk
+26        android:minSdkVersion="21"
+27        android:targetSdkVersion="28" />
+28
+29    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+29-->/Users/apple/Desktop/SampleApplication/libapp/src/debug/AndroidManifest.xml:5:5-77
+29-->/Users/apple/Desktop/SampleApplication/libapp/src/debug/AndroidManifest.xml:5:22-75
+30    <uses-permission android:name="android.permission.INTERNET" />
+30-->/Users/apple/Desktop/SampleApplication/libapp/src/main/AndroidManifest.xml:4:5-67
+30-->/Users/apple/Desktop/SampleApplication/libapp/src/main/AndroidManifest.xml:4:22-64
+31    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+31-->/Users/apple/Desktop/SampleApplication/libapp/src/main/AndroidManifest.xml:5:5-81
+31-->/Users/apple/Desktop/SampleApplication/libapp/src/main/AndroidManifest.xml:5:22-78
+32    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+32-->/Users/apple/Desktop/SampleApplication/libapp/src/main/AndroidManifest.xml:6:5-80
+32-->/Users/apple/Desktop/SampleApplication/libapp/src/main/AndroidManifest.xml:6:22-77
+33
+34    <application
+34-->/Users/apple/Desktop/SampleApplication/libapp/src/debug/AndroidManifest.xml:7:5-12:19
+35        android:usesCleartextTraffic="true"
+35-->/Users/apple/Desktop/SampleApplication/libapp/src/debug/AndroidManifest.xml:8:9-44
+36        tools:ignore="GoogleAppIndexingWarning"
+36-->/Users/apple/Desktop/SampleApplication/libapp/src/debug/AndroidManifest.xml:10:9-48
+37        tools:targetApi="28" >
+37-->/Users/apple/Desktop/SampleApplication/libapp/src/debug/AndroidManifest.xml:9:9-29
+38        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+38-->/Users/apple/Desktop/SampleApplication/libapp/src/debug/AndroidManifest.xml:11:9-86
+38-->/Users/apple/Desktop/SampleApplication/libapp/src/debug/AndroidManifest.xml:11:19-83
+39    </application>
+40
+41</manifest>

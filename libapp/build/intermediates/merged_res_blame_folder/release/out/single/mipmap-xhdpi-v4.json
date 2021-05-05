@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/apple/Desktop/SampleApplication/libapp/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/apple/Desktop/SampleApplication/libapp/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/SampleApplication/libapp/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ic_launcher_round.png",
+        "source": "/Users/apple/Desktop/SampleApplication/libapp/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]

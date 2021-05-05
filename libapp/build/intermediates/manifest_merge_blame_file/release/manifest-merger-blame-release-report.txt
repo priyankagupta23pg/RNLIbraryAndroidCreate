@@ -1,0 +1,40 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.reactproj"
+4    android:versionCode="1"
+5    android:versionName="1.0" > <!-- <application -->
+6    <!-- android:name=".MainApplication" -->
+7    <!-- android:label="@string/app_name" -->
+8    <!-- android:icon="@mipmap/ic_launcher" -->
+9    <!-- android:roundIcon="@mipmap/ic_launcher_round" -->
+10    <!-- android:allowBackup="false" -->
+11    <!-- android:theme="@style/AppTheme"> -->
+12    <!-- <activity -->
+13    <!-- android:name=".MainActivity" -->
+14    <!-- android:label="@string/app_name" -->
+15    <!-- android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode" -->
+16    <!-- android:launchMode="singleTask" -->
+17    <!-- android:windowSoftInputMode="adjustResize"> -->
+18    <!-- <intent-filter> -->
+19    <!-- <action android:name="android.intent.action.MAIN" /> -->
+20    <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+21    <!-- </intent-filter> -->
+22    <!-- </activity> -->
+23    <!-- </application> -->
+24    <uses-sdk
+25        android:minSdkVersion="21"
+25-->/Users/apple/Desktop/SampleApplication/libapp/src/main/AndroidManifest.xml
+26        android:targetSdkVersion="28" />
+26-->/Users/apple/Desktop/SampleApplication/libapp/src/main/AndroidManifest.xml
+27
+28    <uses-permission android:name="android.permission.INTERNET" />
+28-->/Users/apple/Desktop/SampleApplication/libapp/src/main/AndroidManifest.xml:4:5-67
+28-->/Users/apple/Desktop/SampleApplication/libapp/src/main/AndroidManifest.xml:4:22-64
+29    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+29-->/Users/apple/Desktop/SampleApplication/libapp/src/main/AndroidManifest.xml:5:5-81
+29-->/Users/apple/Desktop/SampleApplication/libapp/src/main/AndroidManifest.xml:5:22-78
+30    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+30-->/Users/apple/Desktop/SampleApplication/libapp/src/main/AndroidManifest.xml:6:5-80
+30-->/Users/apple/Desktop/SampleApplication/libapp/src/main/AndroidManifest.xml:6:22-77
+31
+32</manifest>
