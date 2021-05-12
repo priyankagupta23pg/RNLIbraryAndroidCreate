@@ -249,10 +249,10 @@ publishing {
 dependencies {
     //implementation fileTree(dir: "libs", include: ["*.aar"])
     //noinspection GradleDynamicVersion
-    api 'com.facebook.react:react-native:+'
+    implementation 'com.facebook.react:react-native:+'
 
     //noinspection GradleDynamicVersion
-    api 'org.webkit:android-jsc:+'
+    implementation 'org.webkit:android-jsc:+'
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.3.50"
 
     implementation "androidx.swiperefreshlayout:swiperefreshlayout:1.0.0"
