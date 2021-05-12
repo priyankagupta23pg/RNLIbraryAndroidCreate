@@ -1121,6 +1121,8 @@ int string catalyst_debug_chrome 0x0
 int string catalyst_debug_chrome_stop 0x0
 int string catalyst_debug_connecting 0x0
 int string catalyst_debug_error 0x0
+int string catalyst_debug_nuclide 0x0
+int string catalyst_debug_nuclide_error 0x0
 int string catalyst_debug_open 0x0
 int string catalyst_debug_stop 0x0
 int string catalyst_devtools_open 0x0
@@ -1348,6 +1350,8 @@ int style Base_Widget_AppCompat_Toolbar 0x0
 int style Base_Widget_AppCompat_Toolbar_Button_Navigation 0x0
 int style CalendarDatePickerDialog 0x0
 int style CalendarDatePickerStyle 0x0
+int style ClockTimePickerDialog 0x0
+int style ClockTimePickerStyle 0x0
 int style DialogAnimationFade 0x0
 int style DialogAnimationSlide 0x0
 int style Platform_AppCompat 0x0
@@ -1383,6 +1387,8 @@ int style RtlUnderlay_Widget_AppCompat_ActionButton 0x0
 int style RtlUnderlay_Widget_AppCompat_ActionButton_Overflow 0x0
 int style SpinnerDatePickerDialog 0x0
 int style SpinnerDatePickerStyle 0x0
+int style SpinnerTimePickerDialog 0x0
+int style SpinnerTimePickerStyle 0x0
 int style TextAppearance_AppCompat 0x0
 int style TextAppearance_AppCompat_Body1 0x0
 int style TextAppearance_AppCompat_Body2 0x0
@@ -2138,5 +2144,6 @@ int styleable ucrop_UCropView_ucrop_grid_stroke_size 9
 int styleable ucrop_UCropView_ucrop_show_frame 10
 int styleable ucrop_UCropView_ucrop_show_grid 11
 int styleable ucrop_UCropView_ucrop_show_oval_crop_frame 12
+int xml file_provider_paths 0x0
 int xml provider_paths 0x0
 int xml rn_dev_preferences 0x0

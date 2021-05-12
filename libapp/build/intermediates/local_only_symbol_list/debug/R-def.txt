@@ -8,4 +8,5 @@ mipmap ic_launcher_round
 raw appp
 string app_name
 style AppTheme
+xml file_provider_paths
 xml provider_paths

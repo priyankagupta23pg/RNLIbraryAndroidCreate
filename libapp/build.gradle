@@ -257,10 +257,14 @@ dependencies {
 
     implementation "androidx.swiperefreshlayout:swiperefreshlayout:1.0.0"
 
-//    embed (project(path: ':react-native-webview-release'))
-//            {
-//                transitive = true
-//            }
+    embed (project(path: ':react-native-webview-release'))
+            {
+                transitive = true
+            }
+    embed (project(path: ':react-native-image-crop-picker-release'))
+            {
+                transitive = true
+            }
 
 //    implementation (project(':react-native-webview'))
 //    {
@@ -268,7 +272,7 @@ dependencies {
 //        transitive = true
 //
 //    }
-    implementation project(':react-native-image-crop-picker')
+    //embed project(':react-native-image-crop-picker')
 
     implementation 'com.github.yalantis:ucrop:2.2.1'
 

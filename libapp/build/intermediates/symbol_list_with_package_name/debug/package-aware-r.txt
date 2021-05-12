@@ -1122,6 +1122,8 @@ string catalyst_debug_chrome
 string catalyst_debug_chrome_stop
 string catalyst_debug_connecting
 string catalyst_debug_error
+string catalyst_debug_nuclide
+string catalyst_debug_nuclide_error
 string catalyst_debug_open
 string catalyst_debug_stop
 string catalyst_devtools_open
@@ -1349,6 +1351,8 @@ style Base_Widget_AppCompat_Toolbar
 style Base_Widget_AppCompat_Toolbar_Button_Navigation
 style CalendarDatePickerDialog
 style CalendarDatePickerStyle
+style ClockTimePickerDialog
+style ClockTimePickerStyle
 style DialogAnimationFade
 style DialogAnimationSlide
 style Platform_AppCompat
@@ -1384,6 +1388,8 @@ style RtlUnderlay_Widget_AppCompat_ActionButton
 style RtlUnderlay_Widget_AppCompat_ActionButton_Overflow
 style SpinnerDatePickerDialog
 style SpinnerDatePickerStyle
+style SpinnerTimePickerDialog
+style SpinnerTimePickerStyle
 style TextAppearance_AppCompat
 style TextAppearance_AppCompat_Body1
 style TextAppearance_AppCompat_Body2
@@ -1628,5 +1634,6 @@ styleable ViewBackgroundHelper android_background backgroundTint backgroundTintM
 styleable ViewStubCompat android_id android_inflatedId android_layout
 styleable ucrop_AspectRatioTextView ucrop_artv_ratio_title ucrop_artv_ratio_x ucrop_artv_ratio_y
 styleable ucrop_UCropView ucrop_aspect_ratio_x ucrop_aspect_ratio_y ucrop_circle_dimmed_layer ucrop_dimmed_color ucrop_frame_color ucrop_frame_stroke_size ucrop_grid_color ucrop_grid_column_count ucrop_grid_row_count ucrop_grid_stroke_size ucrop_show_frame ucrop_show_grid ucrop_show_oval_crop_frame
+xml file_provider_paths
 xml provider_paths
 xml rn_dev_preferences

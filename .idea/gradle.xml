@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/libapp" />
             <option value="$PROJECT_DIR$/libapp/node_modules/react-native-image-crop-picker/android" />
+            <option value="$PROJECT_DIR$/react-native-image-crop-picker-release" />
             <option value="$PROJECT_DIR$/react-native-webview-release" />
           </set>
         </option>
