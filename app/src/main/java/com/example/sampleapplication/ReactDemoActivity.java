@@ -16,7 +16,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.facebook.react.modules.core.PermissionAwareActivity;
 import com.facebook.react.modules.core.PermissionListener;
 import com.reactproj.ReactNativeDemoLibrary;
-import com.facebook.soloader.SoLoader;
 
 /**
  * Activity hosting React Native demo.
