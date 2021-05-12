@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+drawable node_modules_reactnative_libraries_newappscreen_components_logo
+drawable source_images_cam
+drawable source_images_male
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw appp
+string app_name
+style AppTheme
+xml provider_paths

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/51961925/SampleApplication.iml" filepath="$PROJECT_DIR$/.idea/modules/51961925/SampleApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/260836695/SampleApplication.app.iml" filepath="$PROJECT_DIR$/.idea/modules/260836695/SampleApplication.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SampleApplication.libapp.iml" filepath="$PROJECT_DIR$/.idea/modules/SampleApplication.libapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/node_modules/react-native-image-crop-picker/android/SampleApplication.react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/node_modules/react-native-image-crop-picker/android/SampleApplication.react-native-image-crop-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1275833877/SampleApplication.react-native-webview-release.iml" filepath="$PROJECT_DIR$/.idea/modules/1275833877/SampleApplication.react-native-webview-release.iml" />
+    </modules>
+  </component>
+</project>

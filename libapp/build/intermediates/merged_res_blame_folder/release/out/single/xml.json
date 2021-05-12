@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/apple/Desktop/RNLIbraryAndroidCreate-master/libapp/build/intermediates/res/merged/release/xml/rn_dev_preferences.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/bac6e75e379047d08dc288fa5a569784/jetified-react-native-0.64.0/res/xml/rn_dev_preferences.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/RNLIbraryAndroidCreate-master/libapp/build/intermediates/res/merged/release/xml/provider_paths.xml",
+        "source": "/Users/apple/Desktop/RNLIbraryAndroidCreate-master/libapp/build/intermediates/exploded-aar/SampleApplication/react-native-image-crop-picker/unspecified/release/res/xml/provider_paths.xml"
+    }
+]
